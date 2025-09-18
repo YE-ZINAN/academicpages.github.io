@@ -11,15 +11,15 @@ redirect_from:
 
 
 
-<font size="2">
+<font size="4">
 I am a Ph.D. candidate in Economics at City University of Hong Kong. <br><br>
 
 My research interests are Macroecoonmics, Political Economics, Regional Economics and Chinese Economy. <br><br>
 
-My studies focus on how the local government's behavior affect the Chinese economy: 1. promoting private sector; 2. eliminating boundary frictions and 3. allocating land finance.
-</font>
+My studies focus on how the local government's behaviors affect the Chinese economy: 1. promoting private sector; 2. eliminating boundary frictions and 3. allocating land finance.
+
 
 <br>
 
 Email: <a href="mailto:zinanye3-c@my.cityu.edu.hk">zinanye3-c@my.cityu.edu.hk</a>
-
+</font>
