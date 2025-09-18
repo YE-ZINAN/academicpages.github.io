@@ -1,13 +1,15 @@
+---
 permalink: /
-title: "YE ZINAN （叶梓南）"
+title: "YE ZINAN （叶梓南）
+"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
 
 
-# YE ZINAN （叶梓南）
 
 <font size="2">
 I am a Ph.D. candidate in Economics at City University of Hong Kong. <br><br>
