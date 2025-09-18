@@ -26,11 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "YE ZINAN 叶梓南"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "China"
+  uri              : "https://ye-zinan.github.io/academicpages.github.io/"
+  email            : "zinanye3-c@my.cityu.edu.hk" 
 
   # Academic websites
   academia         : # URL
